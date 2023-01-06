@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811067035598",
+    "project_id": "kumpool-be325",
+    "storage_bucket": "kumpool-be325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811067035598:android:e6138befae50ab7204a59f",
+        "android_client_info": {
+          "package_name": "com.example.kumpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811067035598-fegmq6vrh1hq4mhl90rgi1lr8neocdgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDsL23mX0iWbw8tWzYSw-2NwKROE96f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811067035598-fegmq6vrh1hq4mhl90rgi1lr8neocdgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
